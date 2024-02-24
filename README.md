@@ -1,3 +1,9 @@
+# Docker Image
+
+**tag name: bahmni/openmrs**
+https://github.com/DIGIIND-Healthcare/openmrs-distro-bahmni/blob/331537658fbc80dbd6f364148448d3a03de0e7d9/.github/workflows/build_publish_openmrs.yml#L58
+
+
 openmrs-distro-bahmni
 ==================
 
